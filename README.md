@@ -16,10 +16,10 @@ Provide key KPIs for executive-level decision-making
 Build an interactive dashboard using Power BI visuals
 
 📁 Files Included
-File Name	Description
-PROJECT_PBII.pbix	Power BI project file with data model and visuals
-Amazon_Combined_Data.xlsx	Raw dataset used for loading and transformation
-AMAZON_POWERBI_DASHBOARD.pdf	Exported view of the full dashboard
+File Name	                              Description
+PROJECT_PBII.pbix                   	Power BI project file with data model and visuals
+Amazon_Combined_Data.xlsx	            Raw dataset used for loading and transformation
+AMAZON_POWERBI_DASHBOARD.pdf	        Exported view of the full dashboard
 
 📈 Key Results & Insights
 Based on the Power BI dashboard, the following business insights were drawn:
